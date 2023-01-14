@@ -1,0 +1,1 @@
+server1.go and client1.go implement the communication of encoding/sending and receiving/decoding a structure with fixed length integers.
